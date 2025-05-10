@@ -1,6 +1,13 @@
 # SoftSell – Software Resale Startup Website
 
 A responsive, single-page marketing website for a fictional software resale startup called **SoftSell**.
+---
+
+## 🌐 Deployment
+
+The website is live on Vercel: [Visit SoftSell](https://credex-kappa.vercel.app/)
+
+---
 
 ## 🚀 Features Implemented
 
@@ -66,12 +73,6 @@ A responsive, single-page marketing website for a fictional software resale star
 | Testing & Refinement     | 1 hour   |
 | **Total**                | **9 hours** |
 
----
 
-## 🌐 Deployment
-
-The website is live on Vercel: [Visit SoftSell](https://credex-kappa.vercel.app/)
-
----
 
 
